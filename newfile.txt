@@ -1,2 +1,3 @@
-## CLAPIJO NEW FILE
-## Updated by CLAPIJO
+git add - This is one of the command used in git to add all the files and stage them all to commit into online repository.
+git commit - This command is used for packaging all the files in order to push to your online repository or local repository.
+git push - This command used for pushing your code to the online repository.
